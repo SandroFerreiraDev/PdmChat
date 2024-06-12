@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922913484998",
+    "project_id": "pdmchat-1b5f8",
+    "storage_bucket": "pdmchat-1b5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922913484998:android:3e3a6e6b719fb12c3ba7c7",
+        "android_client_info": {
+          "package_name": "com.ferreirasandro.pdmchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-ic5w17LBbBi5IUKS-FHgM4NPhR1Ay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
