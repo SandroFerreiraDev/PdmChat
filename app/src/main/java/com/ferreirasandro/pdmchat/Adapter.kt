@@ -31,7 +31,7 @@ class Adapter(private val messages: List<Message>) :
             senderTextView.text = message.author
             timestampTextView.text = java.text.SimpleDateFormat("dd/MM/yyyy HH:mm")
                 .format(java.util.Date(message.timestamp))
-            messageTextView.text = message.author
+            messageTextView.text = message.conteudo
         }
     }
 }
